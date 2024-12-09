@@ -1,2 +1,2 @@
 # todo
-a todo made using basic JavaScript
+a todo made using JavaScript
